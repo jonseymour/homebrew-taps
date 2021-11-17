@@ -1,4 +1,4 @@
-# Jonseymour Taps
+# jonseymour's taps
 
 ## How do I install these formulae?
 
